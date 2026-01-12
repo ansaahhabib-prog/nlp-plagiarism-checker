@@ -1,0 +1,26 @@
+PLAGIARISM CHECK RESULTS
+============================================================
+
+Total comparisons: 3
+
+SIMILARITY PERCENTAGES (sorted highest to lowest):
+------------------------------------------------------------
+
+document2.txt vs document3.txt: 38.39%
+document1.txt vs document2.txt: 14.62%
+document1.txt vs document3.txt: 13.74%
+
+============================================================
+MOST SIMILAR DOCUMENTS:
+------------------------------------------------------------
+
+1. document2.txt vs document3.txt: 38.39%
+2. document1.txt vs document2.txt: 14.62%
+3. document1.txt vs document3.txt: 13.74%
+
+============================================================
+SUMMARY:
+------------------------------------------------------------
+High similarity (≥80%): 0 pair(s)
+Medium similarity (50-80%): 0 pair(s)
+Low similarity (<50%): 3 pair(s)
